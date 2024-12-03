@@ -103,7 +103,7 @@ body {
 
 .six img {
   display: inline-block;
-  height: 350px;
+  height: 200px;
   max-width: 100%;
   /* height: auto; */
 }
@@ -111,7 +111,7 @@ body {
 .six .hat {
   left: 41.5%;
   position: absolute;
-  /* transform: scale(0.1); */
+  transform: rotate(-30deg);
   top: -35%;
   width: 80px;
 }
